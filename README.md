@@ -1,5 +1,8 @@
 # test-work-cards
 
+Preview:
+http://test-work-cards.s3-website.eu-north-1.amazonaws.com/
+
 ## Project Setup
 
 ```sh
